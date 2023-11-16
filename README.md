@@ -17,12 +17,12 @@
 
 **Course Duration:** 6 weeks (approximate)
 
-#### Section 1: Course Orientation
+### Section 1: Course Orientation
 <ul>
     <li>[<a href="url">Slides</a>]</li>
 </ul> 
 
-#### Section 2: Introduction to Web Development 
+### Section 2: Introduction to Web Development 
 <ul>
     <li>What is the internet?</li>
     <li>The Internet vs. the Web</li>
@@ -35,7 +35,7 @@
 
 </ul>
 
-#### Section 3: Introduction to HTML
+### Section 3: Introduction to HTML
 <ul>
     <details>
         <summary>HTML Basics</summary>
