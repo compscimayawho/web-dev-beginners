@@ -19,7 +19,7 @@
 
 ### Section 1: Course Orientation
 <ul>
-    <li>[<a href="url">Slides</a>]</li>
+    <li>Resources: [<a href="url">Slides</a>]</li>
 </ul> 
 
 ### Section 2: Introduction to Web Development 
@@ -28,10 +28,10 @@
     <li>The Internet vs. the Web</li>
     <li>How does the web work?</li>
     <li>Frontend vs. Backend</li>
-    <li>HTML, CSS, JavaScript: What do they do? /li>
+    <li>HTML, CSS, JavaScript: What do they do? </li>
     <li>Installations</li> 
-    <li>[<a href="url">Slides</a>] [<a href="https://drive.google.com/file/d/1H-28GOa-RBYTQ6QbwHBmtqi6IoidU6--/view?usp=sharing">Installation Guide</a>]</li> 
-
+    <li>Resources: [<a href="url">Slides</a>] [<a href="https://drive.google.com/file/d/1H-28GOa-RBYTQ6QbwHBmtqi6IoidU6--/view?usp=sharing">Installation Guide</a>]</li> 
+    <li>Optional Articles: [<a href="https://xyproblem.info">The XY Problem</a>] [<a href="https://slash7.com/2006/12/22/vampires">Help Vampires 🧛‍♀️</a>]</li>
 </ul>
 
 ### Section 3: Introduction to HTML
@@ -78,7 +78,7 @@
             <li>Form Validation</li>
         </ul>
     </details>
-    <li>[<a href="url">Slides</a>]</li>
+    <li>Resources: [<a href="url">Slides</a>]</li>
     <li>Optional VS Code Extensions: [<a href="url">Emmet</a>] [<a href="url">Live Server</a>]</li>
 </ul>
 
