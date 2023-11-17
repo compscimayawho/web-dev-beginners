@@ -30,8 +30,7 @@
     <li>Frontend vs. Backend</li>
     <li>HTML, CSS, JavaScript: What do they do? /li>
     <li>Installations</li> 
-    <li>[<a href="url">Slides</a>] [<a href="url">Installation Guide</a>]</li> 
-    <li>Optional VS Code Extensions: [<a href="url">Emmet</a>] [<a href="url">Live Server</a>]</li>
+    <li>[<a href="url">Slides</a>] [<a href="https://drive.google.com/file/d/1H-28GOa-RBYTQ6QbwHBmtqi6IoidU6--/view?usp=sharing">Installation Guide</a>]</li> 
 
 </ul>
 
@@ -80,6 +79,7 @@
         </ul>
     </details>
     <li>[<a href="url">Slides</a>]</li>
+    <li>Optional VS Code Extensions: [<a href="url">Emmet</a>] [<a href="url">Live Server</a>]</li>
 </ul>
 
 
