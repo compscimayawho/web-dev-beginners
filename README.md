@@ -79,7 +79,7 @@
         </ul>
     </details>
     <li>Resources: [<a href="url">Slides</a>]</li>
-    <li>Optional VS Code Extensions: [<a href="url">Emmet</a>] [<a href="url">Live Server</a>]</li>
+    <li>Optional VS Code Extensions: [<a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</a>] [<a href="https://marketplace.visualstudio.com/items?itemName=george-alisson.html-preview-vscode">HTML Preview</a>] [<a href="https://docs.emmet.io/cheat-sheet/">Emmet</a>] </li>
 </ul>
 
 
