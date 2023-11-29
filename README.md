@@ -48,6 +48,11 @@
             <li>Links</li>
             <li>Images</li>
             <li>Comments</li>
+            <li>Assignments: 
+                [<a href="./code/nested-lists-sol.html">Nested Lists</a>]
+                [<a href="./code/clickable-image.html">Clickable Image</a>]
+                [<a href="./code/letter-assignment-sol.html">Formating a Letter</a>]
+            </li>
         </ul>
     </details>
     <details>
