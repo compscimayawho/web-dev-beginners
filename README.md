@@ -82,9 +82,22 @@
     <li>Optional VS Code Extensions: [<a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</a>] [<a href="https://marketplace.visualstudio.com/items?itemName=george-alisson.html-preview-vscode">HTML Preview</a>] [<a href="https://docs.emmet.io/cheat-sheet/">Emmet</a>] </li>
 </ul>
 
+### Extra Session: Introduction to GitHub
+<ul>
+    <li>Presented by: Mohammad Mansour</li>
+    <li>[<a href="https://slides.com/iamo/overflow-git/fullscreen">Slides</a>]</li>
+    <li>Optional Articles (read them in the following order):
+        <ol>
+            <li><a href="https://www.theodinproject.com/lessons/foundations-command-line-basics">Command Line Basics</a></li>
+            <li><a href="https://www.theodinproject.com/lessons/foundations-setting-up-git">Setting Up Git</a></li>
+            <li><a href="https://www.theodinproject.com/lessons/foundations-introduction-to-git">Introduction to Git</a></li>
+            <li><a href="https://www.theodinproject.com/lessons/foundations-git-basics">Git Basics</a></li>
+        </ol>
+    </li>
+</ul>
+
 
    <!-- <ul>
             <li></li>
     </ul> -->
 <!-- [<a href="url"></a>] -->
-    
