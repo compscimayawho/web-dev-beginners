@@ -53,7 +53,6 @@
                 [<a href="./code/clickable-image.html">Clickable Image</a>]
                 [<a href="./code/letter-assignment-sol.html">Formating a Letter</a>]
             </li>
-             <li>Optional Articles: [<a href="https://css-tricks.com/use-target_blank/">target = "_blank"</a>]</li>
         </ul>
     </details>
     <details>
@@ -63,7 +62,6 @@
             <li>Divs & Spans</li>
             <li>Introduction to Semantic Markup</li>
             <li>Semantic Elements</li>
-            <li>Optional Articles: [<a href="https://www.theodinproject.com/lessons/node-path-advanced-html-and-css-semantic-html">Semantic HTML</a>] [<a href="https://css-tricks.com/use-target_blank/">target="_blank"</a>]</li>
         </ul>
     </details>
     <details> 
@@ -86,6 +84,7 @@
     </details>
     <li>Resources: [<a href="https://drive.google.com/file/d/1rFCbNH9SlMx9wBvZAOjupa8f4xBH7j_p/view?usp=sharing">Slides</a>]</li>
     <li>Optional VS Code Extensions: [<a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</a>] [<a href="https://marketplace.visualstudio.com/items?itemName=george-alisson.html-preview-vscode">HTML Preview</a>] [<a href="https://docs.emmet.io/cheat-sheet/">Emmet</a>] </li>
+    <li>Optional Articles: [<a href="https://www.theodinproject.com/lessons/node-path-advanced-html-and-css-semantic-html">Semantic HTML</a>] [<a href="https://css-tricks.com/use-target_blank/">target="_blank"</a>]</li>
 </ul>
 
 ### Extra Session: Introduction to GitHub
