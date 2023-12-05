@@ -58,12 +58,11 @@
     <details>
         <summary>Semantic Markup & More</summary>
         <ul>
-            <li>HTML5..?</li>
             <li>Block vs. Inline Elements</li>
             <li>Divs & Spans</li>
-            <li>Entity Codes</li>
             <li>Introduction to Semantic Markup</li>
             <li>Semantic Elements</li>
+            <li>Optional Articles: [<a href="https://www.theodinproject.com/lessons/node-path-advanced-html-and-css-semantic-html">Semantic HTML</a>]</li>
         </ul>
     </details>
     <details> 
@@ -81,6 +80,7 @@
             <li>More Buttons and Selects</li>
             <li>Range and Text Area</li>
             <li>Form Validation</li>
+            <li>Assignments: [<a>Table #1</a>] [<a>Table #2</a>]</li>
         </ul>
     </details>
     <li>Resources: [<a href="https://drive.google.com/file/d/1rFCbNH9SlMx9wBvZAOjupa8f4xBH7j_p/view?usp=sharing">Slides</a>]</li>
