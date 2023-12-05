@@ -53,6 +53,7 @@
                 [<a href="./code/clickable-image.html">Clickable Image</a>]
                 [<a href="./code/letter-assignment-sol.html">Formating a Letter</a>]
             </li>
+             <li>Optional Articles: [<a href="https://css-tricks.com/use-target_blank/">target = "_blank"</a>]</li>
         </ul>
     </details>
     <details>
@@ -62,7 +63,7 @@
             <li>Divs & Spans</li>
             <li>Introduction to Semantic Markup</li>
             <li>Semantic Elements</li>
-            <li>Optional Articles: [<a href="https://www.theodinproject.com/lessons/node-path-advanced-html-and-css-semantic-html">Semantic HTML</a>]</li>
+            <li>Optional Articles: [<a href="https://www.theodinproject.com/lessons/node-path-advanced-html-and-css-semantic-html">Semantic HTML</a>] [<a href="https://css-tricks.com/use-target_blank/">target="_blank"</a>]</li>
         </ul>
     </details>
     <details> 
