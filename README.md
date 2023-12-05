@@ -80,7 +80,7 @@
             <li>More Buttons and Selects</li>
             <li>Range and Text Area</li>
             <li>Form Validation</li>
-            <li>Assignments: [<a>Table #1</a>] [<a>Table #2</a>]</li>
+            <li>Assignments: [<a href="./code/tables.html">Tables</a>]</li>
         </ul>
     </details>
     <li>Resources: [<a href="https://drive.google.com/file/d/1rFCbNH9SlMx9wBvZAOjupa8f4xBH7j_p/view?usp=sharing">Slides</a>]</li>
