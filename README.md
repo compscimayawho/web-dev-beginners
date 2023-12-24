@@ -150,7 +150,7 @@
             </li>
             <li>CSS Units
                 <ul>
-                    <li>Absolute Units: [ <a href="./code/percentage.html">px</a> ]</li>
+                    <li>Absolute Units: [<a href="./code/percentage.html">px</a>]</li>
                     <li>Relative Units:
                         [<a href="./code/percentage.html">Percentages</a>]
                         [<a href="./code/vwANDvh.html">Viewport Width & Height</a>]
@@ -181,10 +181,10 @@
     </details>
     <li>Responsive CSS and Media Queries</li>
     <li>Bootstrap 5
-        [ <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">Docs</a> ] 
+        [<a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">Docs</a>] 
     </li>
     <li> Improve your HTML and CSS skills by practicing on real design templates at <a href="https://www.codewell.cc/">Codewell</a>.</li>
-    <li>Optional VS Code Extensions: [ <a href="https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css">HTML CSS Support</a> ]</li>
+    <li>Optional VS Code Extensions: [<a href="https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css">HTML CSS Support</a>]</li>
 </ul>
 
    <!-- <ul>
