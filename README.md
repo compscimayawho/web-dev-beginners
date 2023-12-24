@@ -152,9 +152,9 @@
                 <ul>
                     <li>Absolute Units: [ <a href="./code/percentage.html">px</a> ]</li>
                     <li>Relative Units:
-                        [ <a href="./code/percentage.html">Percentages</a> ]
-                        [ <a href="./code/vwANDvh.html">Viewport Width & Height</a> ]
-                        [ <a href="./code/emVSrem.html">Ems & Rems</a> ]
+                        [<a href="./code/percentage.html">Percentages</a>]
+                        [<a href="./code/vwANDvh.html">Viewport Width & Height</a>]
+                        [<a href="./code/emVSrem.html">Ems & Rems</a>]
                     </li>
                 <ul>
             </li>
@@ -170,10 +170,10 @@
                     <li>flex-flow: Shorthand for flex-direction and flex-wrap </li>
                     <li>align-content</li>
                     <li>Look into: 
-                        [ <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/flex-basis">flex-basis</a> ]
-                        [ <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/flex-grow">flex-grow</a> ]
-                        [ <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/flex-shrink">flex-shrink</a> ]
-                        [ <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/flex">Flex Shorthand</a> ]
+                        [<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/flex-basis">flex-basis</a>]
+                        [<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/flex-grow">flex-grow</a>]
+                        [<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/flex-shrink">flex-shrink</a>]
+                        [<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/flex">Flex Shorthand</a>]
                     </li>
                 </ul>
             </li>
