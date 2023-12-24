@@ -102,7 +102,96 @@
 </ul>
 
 
+### Section 3: Introduction to CSS
+<ul>
+    <details>
+        <summary>CSS Basics</summary>
+        <ul>
+            <li>Introduction to CSS</li>
+            <li>CSS Selectors
+                <ul>
+                    <li>Universal Selector</li>
+                    <li>Type Selector</li>
+                    <li>ID Selector</li>
+                    <li>Class Selector</li>
+                    <li>Grouping Selector</li>
+                    <li>Chaining Selector</li>
+                    <li>Descendant Combinator</li>
+                    <li>Look into: [<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes">Pseudo Classes</a>] [<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements">Pseudo Elements</a>]</li>
+                </ul>
+            </li>
+            <li>Adding CSS to HTML</li>
+            <li>Basic CSS Properties
+                <ul>
+                    <li>color, background-color</li>
+                    <li>Typography
+                        <ul>
+                            <li>font-family</li>
+                            <li>font-weight</li>
+                            <li>font-size</li>
+                            <li>text-align</li>
+                        </ul>
+                    </li>
+                    <li>Images: height, width</li>
+                </ul>
+            </li>
+        </ul>
+    </details>
+    <details>
+        <summary>The Box Model</summary>
+        <ul>
+            <li>The Box Model
+                <ul>
+                    <li>Everything is a box...</li>
+                    <li>Padding</li>
+                    <li>Margins</li>
+                    <li>The Box Model in Dev Tools</li>
+                </ul>
+            </li>
+            <li>CSS Units
+                <ul>
+                    <li>Absolute Units: [ <a href="./code/percentage.html">px</a> ]</li>
+                    <li>Relative Units:
+                        [ <a href="./code/percentage.html">Percentages</a> ]
+                        [ <a href="./code/vwANDvh.html">Viewport Width & Height</a> ]
+                        [ <a href="./code/emVSrem.html">Ems & Rems</a> ]
+                    </li>
+                <ul>
+            </li>
+            <li>FlexBox
+                <ul>
+                    <li>Main-axis vs. Cross-axis</li>
+                    <li>flex-direction</li>
+                    <li>justify-content</li>
+                    <li>align-items</li>
+                    <li>align-self</li>
+                    <li>order</li>
+                    <li>flex-wrap</li>
+                    <li>flex-flow: Shorthand for flex-direction and flex-wrap </li>
+                    <li>align-content</li>
+                    <li>Look into: 
+                        [ <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/flex-basis">flex-basis</a> ]
+                        [ <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/flex-grow">flex-grow</a> ]
+                        [ <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/flex-shrink">flex-shrink</a> ]
+                        [ <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/flex">Flex Shorthand</a> ]
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </details>
+    <li>Responsive CSS and Media Queries</li>
+    <li>Bootstrap 5
+        [ <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">Docs</a> ] 
+    </li>
+    <li> Improve your HTML and CSS skills by practicing on real design templates at <a href="https://www.codewell.cc/">Codewell</a>.</li>
+    <li>Optional VS Code Extensions: [ <a href="https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css">HTML CSS Support</a> ]</li>
+</ul>
+
    <!-- <ul>
+    <li>CSS Basics</li>
+    <li>CSS Units</li>
+    <li>FlexBox</li>
+    <li>Bootstrap [ <a href="">Docs</a> ]</li>
             <li></li>
     </ul> -->
 <!-- [<a href="url"></a>] -->

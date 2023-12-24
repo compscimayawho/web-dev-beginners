@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pixel vs. Percentage</title>
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+        .box {
+            background-color: rgb(161, 31, 161);
+            font-size: 40px;
+            border: 3px solid black;
+            margin: 10px;
+        }
+
+        .parent {
+            width: 350px;
+            border: 2px dotted black;
+            /* display:none; */
+        }
+
+        .fifty-percent {
+            width: 50%;
+        }
+
+        .one-hundred-pixels {
+            width: 200px;
+        }
+
+    </style>
+</head>
+<body>
+
+    <div class="box fifty-percent">50%</div>
+    <div class="box one-hundred-pixels">200px</div>
+
+    <hr>
+
+    <div class="parent">
+        <div class="box fifty-percent">50%</div>
+    <div class="box one-hundred-pixels">200px</div>
+    </div>
+    
+</body>
+</html>
