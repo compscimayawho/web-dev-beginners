@@ -187,6 +187,66 @@
     <li>Optional VS Code Extensions: [<a href="https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css">HTML CSS Support</a>]</li>
 </ul>
 
+### Section 4: Introduction to JS
+<ul>
+    <details>
+        <summary>JavaScript Basics</summary>
+            <ul>
+                <li>What is JS?</li>
+                <li>Primitive Types</li>
+                <li>Defining & Updating Variables: let vs. const</li>
+                <li>The Console</li>
+                <li>Numbers & NaN</li>
+                <li>Booleans</li>
+                <li>Null vs. Undefined
+                    <ul>
+                        <li>Null: The <em>intentional</em> abscense of any value; it must be assigned.
+                            <ul>
+                                <li>Example: <code>let color = null;</code></li>
+                            </ul>
+                        </li>
+                        <li>Undefined: A variable that does not have an assigned value.
+                            <ul>
+                                <li>Example: <code>let color;</code></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li>Variable Naming Conventions: camelCase 🐫</li>
+                <li>Summary: [<a href="./code/basics.js">Basics</a>]</li>
+            </ul>
+    </details>
+    <details>
+        <summary>JavaScript Strings</summary>
+        <ul>
+            <li>Introducing Strings</li>
+            <li>Length Property</li>
+            <li>Indices</li>
+            <li>String Methods
+                <ul>
+                    <li>ToUpperCase</li>
+                    <li>ToLowerCase</li>
+                    <li>Trim</li>
+                    <li>IndexOf</li>
+                    <li>Slice</li>
+                    <li>Replace</li>
+                    <li>NOTE: We did not cover all string methods in class, you can find more on MDN.</li>
+                </ul>
+            </li>
+            <li>String Template Literals: <code>`Hello ${name}` </code></li>
+            <li>Summary: [<a href="./code/strings.js">Strings</a>]</li>
+        </ul>
+    </details>
+    <li>Math Object in JS & Random Numbers
+        <ul>
+            <li>To find a random number between min and max (inclusive): <br>
+            <code>Math.floor(Math.random() * [max - min]) + min </code></li>
+        </ul>
+    </li>
+</ul>
+
+
+
    <!-- <ul>
     <li>CSS Basics</li>
     <li>CSS Units</li>
